@@ -1,3 +1,4 @@
 # WMCUebung-001 -- Stack Blitz  
 
-> - added gitignore
+> - added gitignore  
+> - installed project via `npm i`  
